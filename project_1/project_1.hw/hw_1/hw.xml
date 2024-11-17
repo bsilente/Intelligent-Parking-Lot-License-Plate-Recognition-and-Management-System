@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Product Version: Vivado v2022.1 (64-bit)                     -->
+<!--                                                              -->
+<!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.        -->
+
+<hwsession version="1" minor="2">
+  <device name="xc7a100t_0" gui_info="dashboard1=hw_ila_1[xc7a100t_0/hw_ila_1/Settings=ILA_SETTINGS_1;xc7a100t_0/hw_ila_1/Trigger Setup=ILA_TRIGGER_1;xc7a100t_0/hw_ila_1/Capture Setup=ILA_CAPTURE_1;xc7a100t_0/hw_ila_1/Status=ILA_STATUS_1;xc7a100t_0/hw_ila_1/Waveform=ILA_WAVE_1;]"/>
+  <ObjectList object_type="hw_device" gui_info="">
+    <Object name="xc7a100t_0" gui_info="">
+      <Properties Property="FULL_PROBES.FILE" value=""/>
+      <Properties Property="PROBES.FILE" value=""/>
+      <Properties Property="PROGRAM.HW_BITSTREAM" value="$_project_name_.runs/impl_1/ov5640_fun4_lcd.bit"/>
+      <Properties Property="SLR.COUNT" value="1"/>
+    </Object>
+  </ObjectList>
+  <ObjectList object_type="hw_ila" gui_info="">
+    <Object name="" gui_info="">
+      <Properties Property="CONTROL.TRIGGER_CONDITION" value="AND"/>
+      <Properties Property="CORE_REFRESH_RATE_MS" value="500"/>
+    </Object>
+    <Object name="u_image_process/u2_char_horizon_projection/u_ila_char_horizon" gui_info="">
+      <Properties Property="CONTROL.TRIGGER_CONDITION" value="AND"/>
+      <Properties Property="CONTROL.TRIGGER_POSITION" value="100"/>
+      <Properties Property="CORE_REFRESH_RATE_MS" value="500"/>
+    </Object>
+  </ObjectList>
+  <ObjectList object_type="hw_probe" gui_info="">
+    <Object name="u_image_process/u2_char_horizon_projection/y_cnt[9:0]" gui_info="Trigger Setup=0"/>
+  </ObjectList>
+  <probeset name="hw project" active="false">
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe7[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_first[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe10[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/max_y_last[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe8[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_first[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe9[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/min_y_last[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe2[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_addr[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe3[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/ram_rd_data[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe4[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d1[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe5[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d2[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe6[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Analog"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/rd_data_d3[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;hXXX"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe0[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/x_cnt[0]"/>
+      </nets>
+    </probe>
+    <probe type="ila" busType="net" source="netlist" spec="ILA_V2_RT">
+      <probeOptions Id="DebugProbeParams">
+        <Option Id="CAPTURE_COMPARE_VALUE" value="eq10&apos;hXXX"/>
+        <Option Id="COMPARE_VALUE.0" value="eq10&apos;u479"/>
+        <Option Id="DISPLAY_AS_ENUM" value="1"/>
+        <Option Id="DISPLAY_HINT" value=""/>
+        <Option Id="DISPLAY_RADIX" value="UNSIGNED"/>
+        <Option Id="DISPLAY_VISIBILITY" value=""/>
+        <Option Id="HW_ILA" value="hw_ila_1"/>
+        <Option Id="LINK_TO_WAVEFORM" value="1"/>
+        <Option Id="MAP" value="probe1[9:0]"/>
+        <Option Id="NAME.CUSTOM" value=""/>
+        <Option Id="NAME.SELECT" value="Short"/>
+        <Option Id="SOURCE" value="netlist"/>
+        <Option Id="TRIGGER_COMPARE_VALUE" value="eq10&apos;u479"/>
+        <Option Id="WAVEFORM_STYLE" value="Digital"/>
+      </probeOptions>
+      <nets>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[9]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[8]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[7]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[6]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[5]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[4]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[3]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[2]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[1]"/>
+        <net name="u_image_process/u2_char_horizon_projection/y_cnt[0]"/>
+      </nets>
+    </probe>
+  </probeset>
+</hwsession>

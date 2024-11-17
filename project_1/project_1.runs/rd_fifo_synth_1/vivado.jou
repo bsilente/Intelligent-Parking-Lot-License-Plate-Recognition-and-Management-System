@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon May 15 16:01:51 2023
+# Process ID: 9784
+# Current directory: C:/Users/14751/Desktop/ov5640_fun4_lcd_up3/project_1/project_1.runs/rd_fifo_synth_1
+# Command line: vivado.exe -log rd_fifo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rd_fifo.tcl
+# Log file: C:/Users/14751/Desktop/ov5640_fun4_lcd_up3/project_1/project_1.runs/rd_fifo_synth_1/rd_fifo.vds
+# Journal file: C:/Users/14751/Desktop/ov5640_fun4_lcd_up3/project_1/project_1.runs/rd_fifo_synth_1\vivado.jou
+# Running On: liang, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 34204 MB
+#-----------------------------------------------------------
+source rd_fifo.tcl -notrace

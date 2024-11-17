@@ -1,0 +1,7 @@
+Running: xsim.dir/ov5640_fun4_lcd_behav/xsimk.exe -simmode gui -wdb ov5640_fun4_lcd_behav.wdb -simrunnum 0 -socket 59422
+Design successfully loaded
+Design Loading Memory Usage: 94116 KB (Peak: 94116 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 105712 KB (Peak: 105712 KB)
+Simulation CPU Usage: 4686 ms
