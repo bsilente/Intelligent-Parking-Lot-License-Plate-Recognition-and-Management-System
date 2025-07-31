@@ -1,5 +1,0 @@
-xpm_cdc.sv,systemverilog,xpm,D:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../project_1.gen/sources_1/ip/ila_char_horizon1/hdl/verilog"
-xpm_memory.sv,systemverilog,xpm,D:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../project_1.gen/sources_1/ip/ila_char_horizon1/hdl/verilog"
-xpm_VCOMP.vhd,vhdl,xpm,D:/Xilinx/Vivado/2022.1/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../project_1.gen/sources_1/ip/ila_char_horizon1/hdl/verilog"
-ila_char_horizon1.v,verilog,xil_defaultlib,../../../../project_1.gen/sources_1/ip/ila_char_horizon1/sim/ila_char_horizon1.v,incdir="../../../../project_1.gen/sources_1/ip/ila_char_horizon1/hdl/verilog"
-glbl.v,Verilog,xil_defaultlib,glbl.v

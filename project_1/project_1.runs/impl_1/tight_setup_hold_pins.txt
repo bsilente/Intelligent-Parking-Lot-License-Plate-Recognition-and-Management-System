@@ -1,7 +1,0 @@
-+====================+===================+===================================================================+
-| Launch Setup Clock | Launch Hold Clock | Pin                                                               |
-+====================+===================+===================================================================+
-| sys_clk            | sys_clk           | u_image_process/u3_Get_EigenValue/char2_eigenvalue_temp_reg[12]/D |
-| sys_clk            | sys_clk           | u_image_process/u3_Get_EigenValue/char7_eigenvalue_temp_reg[3]/D  |
-| sys_clk            | sys_clk           | u_image_process/u3_Get_EigenValue/char7_eigenvalue_temp_reg[27]/D |
-+--------------------+-------------------+-------------------------------------------------------------------+
