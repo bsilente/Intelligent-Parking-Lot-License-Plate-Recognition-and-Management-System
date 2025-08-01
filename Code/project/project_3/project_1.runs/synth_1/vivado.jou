@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Nov 11 19:07:57 2024
+# Process ID: 17752
+# Current directory: D:/vivado/project_3/project_1.runs/synth_1
+# Command line: vivado.exe -log ov5640_fun4_lcd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ov5640_fun4_lcd.tcl
+# Log file: D:/vivado/project_3/project_1.runs/synth_1/ov5640_fun4_lcd.vds
+# Journal file: D:/vivado/project_3/project_1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-JENHOUC, OS: Windows, CPU Frequency: 1996 MHz, CPU Physical cores: 12, Host memory: 16442 MB
+#-----------------------------------------------------------
+source ov5640_fun4_lcd.tcl -notrace

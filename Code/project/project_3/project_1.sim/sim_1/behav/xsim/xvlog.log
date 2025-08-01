@@ -1,0 +1,244 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/wr_fifo/sim/wr_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wr_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/rd_fifo/sim/rd_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rd_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_clk_ibuf
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_infrastructure
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_iodelay_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_tempmon
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_arb_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_arb_row_col
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v:252]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_arb_select
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_cntrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_common
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_compare
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_mach
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_queue
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_bank_state
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_col_mach
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_mc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_rank_cntrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_rank_common
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_rank_mach
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_round_robin_arb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_buf.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ecc_buf
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_dec_fix.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ecc_dec_fix
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ecc_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_merge_enc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ecc_merge_enc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_fi_xor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_fi_xor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_memc_ui_top_std
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_mem_intfc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_byte_group_io
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_byte_lane
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_calib_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_if_post_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_mc_phy
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_mc_phy_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_of_pre_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_4lanes
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_dqs_found_cal
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_dqs_found_cal_hr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_init
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_cntlr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_cntlr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_edge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_edge
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_lim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_lim
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_po_cntlr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_po_cntlr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_samp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_ocd_samp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_oclkdelay_cal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_oclkdelay_cal
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_prbs_rdlvl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_rdlvl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_tempmon
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_wrcal
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_wrlvl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl_off_delay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_phy_wrlvl_off_delay
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_prbs_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_skip_calib_tap.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ddr_skip_calib_tap
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_cc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_cc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_edge_store.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_edge_store
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_meta.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_meta
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_pd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_tap_base.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_tap_base
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_poc_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_cmd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ui_cmd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ui_rd_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ui_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_v4_2_ui_wr_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_0_mig
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mig_7series_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/projection_ram/sim/projection_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module projection_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/Get_EigenValue.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Get_EigenValue
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/sobel/Sobel_Edge_Detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sobel_Edge_Detector
+WARNING: [VRFC 10-3380] identifier 'post_img_bit_r' is used before its declaration [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/sobel/Sobel_Edge_Detector.v:52]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/dilation/VIP_Bit_Dilation_Detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VIP_Bit_Dilation_Detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/erosion/VIP_Bit_Erosion_Detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VIP_Bit_Erosion_Detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_horizon_projection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VIP_horizon_projection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_vertical_projection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VIP_vertical_projection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_char.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_char
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_grid.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_grid
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/binarization/binarization.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module binarization
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_binarization.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module char_binarization
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_horizon_projection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module char_horizon_projection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_vertical_projection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module char_vertical_projection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/clk_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/cmos_capture_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmos_capture_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_fifo_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr3_fifo_ctrl
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'pic_data' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_fifo_ctrl.v:53]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_rw.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr3_rw
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'app_addr' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_rw.v:59]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ddr3_top
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'init_calib_complete' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_top.v:92]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/fpga_sevo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fpga_sevo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_dri.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_dri
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_ov5640_rgb565_cfg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_ov5640_rgb565_cfg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lcd_driver
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'h_disp' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v:120]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'v_disp' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v:121]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'lcd_de' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v:122]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'lcd_rgb' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v:123]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'out_vsync' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v:127]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_rgb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lcd_rgb_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/line_shift_ram_8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module line_shift_ram_8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matrix_generate_3x3_1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matrix_generate_3x3_8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/ov5640_dri.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ov5640_dri
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module picture_size
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'cmos_h_pixel' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v:36]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'cmos_v_pixel' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v:37]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'total_h_pixel' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v:38]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'total_v_pixel' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v:39]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'sdram_max_addr' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v:40]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/rd_id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rd_id
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/rgb2ycbcr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rgb2ycbcr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/template_matching.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module template_matching
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/vlg_cal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_cal
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/vlg_echo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_echo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/vlg_en.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_en
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/vlg_trig.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_trig
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/project_1.srcs/sources_1/new/vlg_ultrawave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_ultrawave
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_process
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'post_frame_vsync' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v:166]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'post_frame_de' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v:168]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'post_rgb' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v:169]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/vivado/search/search.srcs/sources_1/new/judge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module judge
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/vivado/search/search.srcs/sources_1/new/set_storehouse.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module set_storehouse
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ov5640_fun4_lcd
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'i_echo' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v:95]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'o_trig' is not allowed [D:/vivado/project_3/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v:96]

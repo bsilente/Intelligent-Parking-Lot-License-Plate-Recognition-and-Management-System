@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/14751/Desktop/ov5640_fun4_lcd_up3/project_1/project_1.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="2,639"></ZoomStartTime>
+      <ZoomEndTime time="3,505"></ZoomEndTime>
+      <Cursor1Time time="2,911"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="256"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/ram_rd_addr" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/ram_rd_addr[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_rd_addr[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/ram_rd_data" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/ram_rd_data[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_rd_data[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/rd_data_d1" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/rd_data_d1[9:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data_d1[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/rd_data_d2" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/rd_data_d2[9:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data_d2[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/rd_data_d3" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/rd_data_d3[9:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data_d3[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/x_cnt" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/x_cnt[9:0]</obj_property>
+      <obj_property name="ObjectShortName">x_cnt[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/y_cnt" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/y_cnt[9:0]</obj_property>
+      <obj_property name="ObjectShortName">y_cnt[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/max_y_first" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/max_y_first[9:0]</obj_property>
+      <obj_property name="ObjectShortName">max_y_first[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/min_y_first" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/min_y_first[9:0]</obj_property>
+      <obj_property name="ObjectShortName">min_y_first[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/min_y_last" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/min_y_last[9:0]</obj_property>
+      <obj_property name="ObjectShortName">min_y_last[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_image_process/u2_char_horizon_projection/max_y_last" type="array">
+      <obj_property name="ElementShortName">u_image_process/u2_char_horizon_projection/max_y_last[9:0]</obj_property>
+      <obj_property name="ObjectShortName">max_y_last[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>
