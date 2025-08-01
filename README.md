@@ -7,10 +7,10 @@ The intelligent parking lot license plate recognition and management system base
 
 ## Code environment
 
-* Operating environment:Vivado 2022.2
-* Programming language:verilog
+* Operating environment: Vivado 2022.2
+* Programming language: Verilog
 
 ## Development board
 
-* FPGA board model:Xilinx Artix-7 series XC7A100T-2FGG484I
+* FPGA board model: Xilinx Artix-7 series XC7A100T-2FGG484I
 
