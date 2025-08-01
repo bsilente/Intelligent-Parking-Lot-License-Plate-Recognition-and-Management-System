@@ -11,3 +11,6 @@ The intelligent parking lot license plate recognition and management system base
 * Programming language:verilog
 
 ## Development board
+
+* FPGA board model:Xilinx Artix-7 series XC7A100T-2FGG484I
+
